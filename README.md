@@ -39,7 +39,6 @@ To start work on this lab, while on Learn.co, click the "Open IDE" button.
 > visit this lab's repository. Once there, create a personal fork of the repo
 > and clone it down
 
- git@github.com:Elenadinca25/lab.basic.git
 
 Once you've got the lesson open, run `learn` in the command line. Six failed
 tests should print out, starting with this:
